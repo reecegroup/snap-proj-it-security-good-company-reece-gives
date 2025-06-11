@@ -1,1 +1,0 @@
-# Snaplogic Pipeline Asset Directory

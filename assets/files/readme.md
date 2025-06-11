@@ -1,1 +1,0 @@
-# Snaplogic File Asset Directory
