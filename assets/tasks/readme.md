@@ -1,1 +1,0 @@
-# Snaplogic Task Asset Directory
